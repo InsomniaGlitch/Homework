@@ -1,4 +1,4 @@
-Console.WriteLine("Welcome to the array sorter.");
+Console.WriteLine("Welcome to the array sorter;");
 Console.Write("Please enter the length of your array: ");
 string[] arr = new string[int.Parse(Console.ReadLine())];
 Console.WriteLine("Now input your array:");
