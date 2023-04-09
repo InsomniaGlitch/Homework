@@ -1,2 +1,2 @@
-# Test
-Tests only
+# Homework for GB
+And nothing else
